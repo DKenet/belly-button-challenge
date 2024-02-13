@@ -1,2 +1,3 @@
 # belly-button-challenge
 This is the week 14 module assignment for the Columbia Bootcamp course.
+This challenge proved to be the most difficult out of all the weeks thus far. On top of many aspects retrieved after research instead of through class material, I was also shocked by our lack of .forEach utilization. I think it's a phenomenal tool to better encapsulate conditions within a loop. For a while, I was struggling loading the plotly charts, but it turned to be due to an excess of an equal sign in line 34. Because the JSON files are a string, and my attempt to graph is numerical, I had to make sure the files can work with each other. 
